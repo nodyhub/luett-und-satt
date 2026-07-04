@@ -1,0 +1,51 @@
+baseURL = "https://luett-und-satt.de/"
+languageCode = "de-de"
+title = "Lütt & Satt - Pragmatisches Kleinkinderessen"
+theme = "PaperMod"
+
+[params]
+  description = "Schietbüdel-Kombüse: Schnelle, hanseatische Rezepte für die Lütten. | Ein kurzer Schnack vorweg: Ich bin ein kochendes Elternteil, kein Kinderarzt. Alle Rezepte haben bei uns wunderbar funktioniert, aber achtet bitte selbst auf Allergien eurer Kinder und darauf, ob sie schon so weit sind, bestimmte Konsistenzen zu kauen."
+  mainSections = ["rezepte"]
+  ShowFullTextinMain = true
+  hideMeta = true
+  DateFormat = "" # Macht das Datum unsichtbar
+
+[params.homeInfoParams]
+  title = "Moin bei Lütt & Satt! 🥣"
+  content = "Schietbüdel-Kombüse: Schnelle, hanseatische Rezepte für die Lütten. \n\n **Wichtiger Hinweis vorweg:** Ich bin ein kochendes Elternteil, kein Kinderarzt. Alle Rezepte haben bei uns wunderbar funktioniert, aber achtet bitte selbst auf Allergien eurer Kinder und darauf, ob sie schon so weit sind, bestimmte Konsistenzen zu kauen."
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[[menu.main]]
+  identifier = "tags"
+  name = "Zutaten & Kategorien"
+  url = "/tags/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "search"
+  name = "Suchen"
+  url = "/search/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "kaffee"
+  name = "☕ Kaffee spendieren"
+  url = "https://paypal.me/janharrie/3"
+  weight = 30
+
+[[menu.main]]
+  identifier = "impressum"
+  name = "Impressum"
+  url = "/impressum/"
+  weight = 90
+
+[params.label]
+  text = "Lütt & Satt"
