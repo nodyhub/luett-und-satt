@@ -9,6 +9,7 @@ theme = "PaperMod"
   ShowFullTextinMain = true
   hideMeta = true
   DateFormat = "" # Macht das Datum unsichtbar
+  disableThemeToggle = true
 
 [params.homeInfoParams]
   title = "Moin bei Lütt & Satt! 🥣"

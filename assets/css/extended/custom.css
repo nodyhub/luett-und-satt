@@ -1,0 +1,171 @@
+/* ================================================
+   Lütt & Satt — Zirkus & Kindergeburtstags-Theme
+   ================================================ */
+
+/* --- Farb-Palette --- */
+:root {
+    --circus-red:    #e63946;
+    --circus-yellow: #ffd166;
+    --circus-blue:   #4cc9f0;
+    --circus-green:  #06d6a0;
+    --circus-purple: #c77dff;
+    --circus-pink:   #ff85a1;
+
+    /* PaperMod overrides */
+    --radius: 14px;
+    --theme:  #fffdf4;
+    --entry:  #ffffff;
+    --border: #ffe8b0;
+    --tertiary: #ffd166;
+}
+
+/* --- Schriften --- */
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Fredoka', cursive;
+    letter-spacing: 0.02em;
+}
+
+/* --- Hintergrund: Kindergeburtstag-Punkte --- */
+body {
+    background-color: #fff5e6;
+    background-image:
+        radial-gradient(circle, #ffd166 9px, transparent 9px),
+        radial-gradient(circle, #ff85a1 9px, transparent 9px),
+        radial-gradient(circle, #4cc9f0 9px, transparent 9px),
+        radial-gradient(circle, #b5ead7 9px, transparent 9px);
+    background-size: 80px 80px, 80px 80px, 80px 80px, 80px 80px;
+    background-position: 0 0, 40px 40px, 20px 60px, 60px 20px;
+}
+
+/* PaperMod überschreibt auf Listenseiten den body-Hintergrund — gleiche Punkte wiederholen */
+.list {
+    background-color: #fff5e6;
+    background-image:
+        radial-gradient(circle, #ffd166 9px, transparent 9px),
+        radial-gradient(circle, #ff85a1 9px, transparent 9px),
+        radial-gradient(circle, #4cc9f0 9px, transparent 9px),
+        radial-gradient(circle, #b5ead7 9px, transparent 9px);
+    background-size: 80px 80px, 80px 80px, 80px 80px, 80px 80px;
+    background-position: 0 0, 40px 40px, 20px 60px, 60px 20px;
+}
+
+/* Hauptbereich: saubere weiße Fläche gegen den bunten Hintergrund */
+.main {
+    background: rgba(255, 255, 255, 0.92);
+    border-radius: 20px;
+    padding: var(--gap);
+}
+
+/* --- Header: kräftiges Rot mit weißem Text --- */
+.header {
+    background: var(--circus-red) !important;
+    border-bottom: 4px solid #c1121f;
+}
+
+/* Sitename & Nav-Links im Header */
+.header .logo a,
+.header nav a {
+    font-family: 'Fredoka', cursive;
+    font-size: 1.05rem;
+    color: #ffffff !important;
+    text-shadow: 0 1px 2px rgba(0,0,0,0.25);
+}
+
+.header .logo a {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+/* --- Post-Karten: schlicht, sauber --- */
+.post-entry {
+    border: none;
+    border-radius: 16px;
+    background: #ffffff;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.post-entry:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+}
+
+/* --- Tags / Zutaten --- */
+.terms-tags a {
+    border-radius: 999px;
+    font-family: 'Fredoka', cursive;
+    font-size: 1rem;
+    transition: transform 0.12s ease, box-shadow 0.12s ease;
+}
+
+.terms-tags a:hover {
+    transform: scale(1.12) rotate(-2deg);
+    box-shadow: 3px 3px 0 rgba(0,0,0,0.12);
+}
+
+/* Bunte Wechselfarben für Tag-Chips (Übersichtsseite & Rezept-Footer) */
+.terms-tags li:nth-child(5n+1) a,
+.post-tags  li:nth-child(5n+1) a { background: #ffd166; color: #3d2b00; }
+.terms-tags li:nth-child(5n+2) a,
+.post-tags  li:nth-child(5n+2) a { background: #9de4ff; color: #00374d; }
+.terms-tags li:nth-child(5n+3) a,
+.post-tags  li:nth-child(5n+3) a { background: #b5ead7; color: #004d38; }
+.terms-tags li:nth-child(5n+4) a,
+.post-tags  li:nth-child(5n+4) a { background: #ffc8dd; color: #5c0020; }
+.terms-tags li:nth-child(5n+5) a,
+.post-tags  li:nth-child(5n+5) a { background: #d6c3f8; color: #2d0060; }
+
+/* Post-Tags im Rezept-Footer: gleiche Pill-Form wie Übersichtsseite */
+.post-tags a {
+    border-radius: 999px;
+    border: none;
+    font-family: 'Fredoka', cursive;
+    font-size: 1rem;
+    line-height: 2;
+    padding: 0 14px;
+    transition: transform 0.12s ease, box-shadow 0.12s ease;
+}
+
+.post-tags a:hover {
+    transform: scale(1.1) rotate(-2deg);
+    box-shadow: 3px 3px 0 rgba(0,0,0,0.12);
+}
+
+/* --- Seitenüberschriften --- */
+.page-header h1 {
+    font-family: 'Fredoka', cursive;
+    font-size: 2.6rem;
+    color: var(--circus-red);
+}
+
+/* --- Artikel-Überschrift (Single) --- */
+.post-header .post-title {
+    font-family: 'Fredoka', cursive;
+    font-size: 2.4rem;
+    color: var(--circus-red);
+}
+
+/* --- Footer --- */
+.footer {
+    border-top: 3px dashed var(--circus-yellow);
+    font-family: 'Fredoka', cursive;
+}
+
+/* --- Suchfeld --- */
+#searchInput {
+    border-radius: 999px;
+    border: 2px solid var(--circus-yellow);
+    font-family: 'Nunito', sans-serif;
+    font-size: 1rem;
+    padding: 0.5rem 1.2rem;
+}
+
+#searchInput:focus {
+    outline: none;
+    border-color: var(--circus-red);
+    box-shadow: 0 0 0 3px #ffd16655;
+}
