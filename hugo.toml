@@ -24,16 +24,10 @@ theme = "PaperMod"
   home = ["HTML", "RSS", "JSON"]
 
 [[menu.main]]
-  identifier = "tags"
-  name = "Zutaten & Kategorien"
-  url = "/tags/"
-  weight = 10
-
-[[menu.main]]
   identifier = "search"
-  name = "Suchen"
+  name = "Suchen & Stöbern"
   url = "/search/"
-  weight = 20
+  weight = 10
 
 [[menu.main]]
   identifier = "kaffee"
