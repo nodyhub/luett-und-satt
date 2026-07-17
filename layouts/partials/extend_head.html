@@ -1,16 +1,51 @@
-<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚓</text></svg>">
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600;700&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
 
-{{- if hugo.IsProduction }}
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-70MZYGTSQT"></script>
+<!-- Cookie-Banner -->
+<div id="cookie-banner" style="display: none; position: fixed; bottom: 0; left: 0; width: 100%; background: var(--theme); border-top: 1px solid var(--border); padding: 10px 15px; text-align: center; font-size: 0.8rem; z-index: 9999; color: var(--primary);">
+  <span>Um die Kombüse zu verbessern, nutzen wir eine milde Prise Google Analytics. Passt das? ⚓
+    <a href="/datenschutz/" style="color: var(--secondary); text-decoration: underline; margin-left: 5px;">Infos</a>
+  </span>
+  <button id="cookie-accept" style="background: transparent; color: var(--secondary); border: none; padding: 3px 10px; margin-left: 15px; cursor: pointer; font-size: 0.8rem; font-family: inherit; text-decoration: underline;">Jo, läuft!</button>
+  <button id="cookie-decline" style="background: transparent; color: var(--secondary); border: none; padding: 3px 10px; margin-left: 5px; cursor: pointer; font-size: 0.8rem; font-family: inherit; text-decoration: underline;">Nee, lass mal.</button>
+</div>
+
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-70MZYGTSQT');
+  function loadAnalytics() {
+    {{- if hugo.IsProduction }}
+    var s = document.createElement("script");
+    s.async = true;
+    s.src = "https://www.googletagmanager.com/gtag/js?id=G-70MZYGTSQT";
+    document.head.appendChild(s);
+    gtag('js', new Date());
+    gtag('config', 'G-70MZYGTSQT', {'anonymize_ip': true});
+    {{- end }}
+  }
+
+  document.addEventListener("DOMContentLoaded", function() {
+    var banner  = document.getElementById("cookie-banner");
+    var consent = localStorage.getItem("cookie-consent");
+
+    if (!consent) {
+      banner.style.display = "block";
+    } else if (consent === "accepted") {
+      loadAnalytics();
+    }
+
+    document.getElementById("cookie-accept").addEventListener("click", function() {
+      localStorage.setItem("cookie-consent", "accepted");
+      banner.style.display = "none";
+      loadAnalytics();
+    });
+
+    document.getElementById("cookie-decline").addEventListener("click", function() {
+      localStorage.setItem("cookie-consent", "declined");
+      banner.style.display = "none";
+    });
+  });
 </script>
-{{- end }}

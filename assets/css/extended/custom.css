@@ -60,24 +60,49 @@ body {
     padding: var(--gap);
 }
 
-/* --- Header: kräftiges Rot mit weißem Text --- */
+/* --- Header: Zirkuszelt-Streifen mit lesbaren Nav-Schildern --- */
 .header {
-    background: var(--circus-red) !important;
+    background: repeating-linear-gradient(
+        -55deg,
+        var(--circus-red)   0px,
+        var(--circus-red)   14px,
+        #ffffff             14px,
+        #ffffff             28px
+    ) !important;
     border-bottom: 4px solid #c1121f;
 }
 
-/* Sitename & Nav-Links im Header */
-.header .logo a,
-.header nav a {
-    font-family: 'Fredoka', cursive;
-    font-size: 1.05rem;
-    color: #ffffff !important;
-    text-shadow: 0 1px 2px rgba(0,0,0,0.25);
-}
-
+/* Logo: weißes Ellipsen-Schild mit rotem Rand */
 .header .logo a {
+    font-family: 'Fredoka', cursive;
     font-size: 1.5rem;
     font-weight: 700;
+    color: #1a1a1a !important;
+    background: #ffffff;
+    border: 2.5px solid #c1121f;
+    border-radius: 999px;
+    padding: 2px 10px;
+    margin: 4px 0;
+    text-shadow: none;
+    display: inline-block;
+}
+
+/* Nav-Links: eckige weiße Schilder mit rotem Rand */
+.header .menu {
+    align-items: center;
+}
+
+.header .menu a {
+    font-family: 'Fredoka', cursive;
+    font-size: 1.05rem;
+    line-height: 1.4;
+    color: #1a1a1a !important;
+    background: #ffffff;
+    border: 2.5px solid #c1121f;
+    border-radius: 6px;
+    padding: 3px 12px;
+    text-shadow: none;
+    align-self: center;
 }
 
 /* --- Post-Karten: schlicht, sauber --- */

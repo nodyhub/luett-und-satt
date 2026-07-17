@@ -37,11 +37,5 @@ theme = "PaperMod"
   url = "https://paypal.me/janharrie/3"
   weight = 30
 
-[[menu.main]]
-  identifier = "impressum"
-  name = "Impressum"
-  url = "/impressum/"
-  weight = 90
-
 [params.label]
   text = "Lütt & Satt"
