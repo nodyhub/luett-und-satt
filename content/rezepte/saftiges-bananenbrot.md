@@ -2,7 +2,7 @@
 title = "Saftiges Bananenbrot (Zuckerfrei & ohne Nüsse)"
 date = "2026-07-04"
 draft = false
-tags = ["Banane", "Backen", "Snack", "Süß", "Kuchen"]
+tags = ["Banane", "Backen", "Snack", "Süß", "Kuchen", "Vegetarisch"]
 +++
 
 ### Zutaten

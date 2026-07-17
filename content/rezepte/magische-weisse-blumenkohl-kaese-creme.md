@@ -2,7 +2,7 @@
 title = "Magische weiße Blumenkohl-Käse-Creme"
 date = "2026-07-04"
 draft = false
-tags = ["Blumenkohl", "Käse", "Dip", "Soße"]
+tags = ["Blumenkohl", "Käse", "Dip", "Soße", "Vegetarisch"]
 +++
 
 ### Zutaten

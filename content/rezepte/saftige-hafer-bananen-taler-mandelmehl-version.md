@@ -2,7 +2,7 @@
 title = "Saftige Hafer-Bananen-Taler (Mandelmehl-Version)"
 date = "2026-07-04"
 draft = false
-tags = ["Hafer", "Banane", "Fingerfood", "Süß", "Snack"]
+tags = ["Hafer", "Banane", "Fingerfood", "Süß", "Snack", "Vegetarisch"]
 +++
 
 ### Zutaten
