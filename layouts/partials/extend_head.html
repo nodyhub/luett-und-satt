@@ -3,49 +3,62 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600;700&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
 
-<!-- Cookie-Banner -->
-<div id="cookie-banner" style="display: none; position: fixed; bottom: 0; left: 0; width: 100%; background: var(--theme); border-top: 1px solid var(--border); padding: 10px 15px; text-align: center; font-size: 0.8rem; z-index: 9999; color: var(--primary);">
-  <span>Um die Kombüse zu verbessern, nutzen wir eine milde Prise Google Analytics. Passt das? ⚓
-    <a href="/datenschutz/" style="color: var(--secondary); text-decoration: underline; margin-left: 5px;">Infos</a>
-  </span>
-  <button id="cookie-accept" style="background: transparent; color: var(--secondary); border: none; padding: 3px 10px; margin-left: 15px; cursor: pointer; font-size: 0.8rem; font-family: inherit; text-decoration: underline;">Jo, läuft!</button>
-  <button id="cookie-decline" style="background: transparent; color: var(--secondary); border: none; padding: 3px 10px; margin-left: 5px; cursor: pointer; font-size: 0.8rem; font-family: inherit; text-decoration: underline;">Nee, lass mal.</button>
-</div>
-
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-
-  function loadAnalytics() {
-    {{- if hugo.IsProduction }}
-    var s = document.createElement("script");
-    s.async = true;
-    s.src = "https://www.googletagmanager.com/gtag/js?id=G-70MZYGTSQT";
-    document.head.appendChild(s);
-    gtag('js', new Date());
-    gtag('config', 'G-70MZYGTSQT', {'anonymize_ip': true});
-    {{- end }}
-  }
-
-  document.addEventListener("DOMContentLoaded", function() {
-    var banner  = document.getElementById("cookie-banner");
-    var consent = localStorage.getItem("cookie-consent");
-
-    if (!consent) {
-      banner.style.display = "block";
-    } else if (consent === "accepted") {
-      loadAnalytics();
+<style>
+@media print {
+    /* 1. FLEX- & HÖHEN-KILLER: Zwingt die Seite, sich dem Inhalt anzupassen, nicht dem Bildschirm! */
+    html, body {
+        display: block !important;
+        height: auto !important;
+        min-height: 0 !important;
     }
 
-    document.getElementById("cookie-accept").addEventListener("click", function() {
-      localStorage.setItem("cookie-consent", "accepted");
-      banner.style.display = "none";
-      loadAnalytics();
-    });
+    /* 2. BODY ZURÜCKSETZEN */
+    body {
+        font-family: 'Nunito', sans-serif !important;
+        font-size: 11pt !important;
+        line-height: 1.4 !important;
+        background: #fff !important;
+        color: #000 !important;
+    }
 
-    document.getElementById("cookie-decline").addEventListener("click", function() {
-      localStorage.setItem("cookie-consent", "declined");
-      banner.style.display = "none";
-    });
-  });
-</script>
+    /* 3. ALLE WRAPPER IN BLOCK-FORMAT ZWINGEN */
+    .main, .post-single, .post-content, article {
+        display: block !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        width: 100% !important;
+        max-width: 100% !important;
+        box-shadow: none !important;
+    }
+
+    /* 4. Letzter Absatz: Kein unsichtbarer Platzhalter nach unten! */
+    .post-content > *:last-child {
+        margin-bottom: 0 !important;
+    }
+
+    /* 5. VERSTECKEN: Alles was keine Tinte verdient */
+    .header, .footer, .post-footer, .share-buttons, .toc, 
+    #cookie-banner, .top-link, .theme-toggle, .breadcrumbs, .pagination {
+        display: none !important;
+    }
+
+    /* 6. BILDER-KONTROLLE */
+    img {
+        max-width: 100% !important;
+        max-height: 400px !important; 
+        object-fit: contain !important;
+    }
+
+    /* 7. ÜBERSCHRIFTEN */
+    h1, h2, h3 {
+        font-family: 'Fredoka', cursive !important;
+        margin-top: 20px !important;
+    }
+
+    /* 8. LINKS: Schwarz */
+    a {
+        color: #000 !important;
+        text-decoration: none !important;
+    }
+}
+</style>
