@@ -92,6 +92,11 @@ body {
     align-items: center;
 }
 
+.header .menu .active {
+    font-weight: 700;
+    text-decoration: none;
+}
+
 .header .menu a {
     font-family: 'Fredoka', cursive;
     font-size: 1.05rem;
