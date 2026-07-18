@@ -11,6 +11,8 @@ theme = "PaperMod"
   DateFormat = "" # Macht das Datum unsichtbar
   disableThemeToggle = true
   defaultTheme = "light"
+  ShowShareButtons = true
+  ShareButtons = ["whatsapp", "facebook", "telegram", "x", "reddit"]
 
 [params.homeInfoParams]
   title = "Moin bei Lütt & Satt! 🥣"
@@ -30,6 +32,12 @@ theme = "PaperMod"
   name = "Suchen & Stöbern"
   url = "/search/"
   weight = 10
+
+[[menu.main]]
+  identifier = "vorschlaege"
+  name = "Vorschläge?"
+  url = "/vorschlaege/"
+  weight = 15
 
 [[menu.main]]
   identifier = "kaffee"
