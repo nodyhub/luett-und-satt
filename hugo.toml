@@ -13,10 +13,11 @@ theme = "PaperMod"
   defaultTheme = "light"
   ShowShareButtons = true
   ShareButtons = ["whatsapp", "facebook", "telegram", "x", "reddit"]
+  images = ["/luett-und-satt-vorschau.png"]
 
 [params.homeInfoParams]
   title = "Moin bei Lütt & Satt! 🥣"
-  content = "Schietbüdel-Kombüse: Schnelle, hanseatische Rezepte für die Lütten. \n\n **Wichtiger Hinweis vorweg:** Ich bin ein kochendes Elternteil, kein Kinderarzt. Alle Rezepte haben bei uns wunderbar funktioniert, aber achtet bitte selbst auf Allergien eurer Kinder und darauf, ob sie schon so weit sind, bestimmte Konsistenzen zu kauen."
+  content = "Schietbüdel-Kombüse: Schnelle Rezepte für die Lütten. \n\n **Wichtiger Hinweis vorweg:** Ich bin ein kochendes Elternteil, kein Kinderarzt. Alle Rezepte haben bei uns wunderbar funktioniert, aber achtet bitte selbst auf Allergien eurer Kinder und darauf, ob sie schon so weit sind, bestimmte Konsistenzen zu kauen."
 
 
 [markup]
