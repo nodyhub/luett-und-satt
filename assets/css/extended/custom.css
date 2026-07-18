@@ -195,7 +195,43 @@ body {
     box-shadow: 0 0 0 3px #ffd16655;
 }
 
-/* --- Mobile Header: bewusst zweizeilig & zentriert --- */
+/* --- Share-Buttons: bunte Marken-Pills --- */
+.share-buttons {
+    background: transparent !important;
+    border: none !important;
+    padding: 0 !important;
+    gap: 10px;
+}
+
+.share-buttons li a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 44px;
+    height: 44px;
+    border-radius: 999px;
+    color: #ffffff !important;
+    transition: transform 0.12s ease, box-shadow 0.12s ease;
+}
+
+.share-buttons li a:hover {
+    transform: scale(1.12);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+/* WhatsApp */
+.share-buttons li:has(a[href*="whatsapp"]) a { background: #25D366; }
+/* Facebook */
+.share-buttons li:has(a[href*="facebook"]) a { background: #1877F2; }
+/* Telegram */
+.share-buttons li:has(a[href*="telegram"]) a { background: #2AABEE; }
+/* X / Twitter */
+.share-buttons li:has(a[href*="x.com"]) a,
+.share-buttons li:has(a[href*="twitter"]) a { background: #000000; }
+/* LinkedIn */
+.share-buttons li:has(a[href*="linkedin"]) a { background: #0A66C2; }
+/* Reddit */
+.share-buttons li:has(a[href*="reddit"]) a { background: #FF4500; }
 @media (max-width: 640px) {
     .header-nav {
         flex-direction: column;
@@ -217,7 +253,7 @@ body {
     }
 
     .header .logo a {
-        font-size: 1.2rem;
+        font-size: 1.75rem;
         padding: 2px 14px;
         margin: 0;
     }
