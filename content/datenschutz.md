@@ -24,7 +24,7 @@ Verantwortliche Stelle ist die natürliche oder juristische Person, die allein o
 
 Diese Website nutzt Umami, ein datenschutzfreundliches, cookiefreies Webanalyse-Tool. Umami setzt keine Cookies und speichert keine personenbezogenen Daten wie IP-Adressen oder Gerätekennungen. Die Analyse erfolgt ausschließlich auf Basis aggregierter, anonymer Nutzungsdaten.
 
-Die Analysesoftware wird auf einem eigenen Server unter der Domain janalytiks.de selbst betrieben. Es findet keine Übermittlung von Daten an Dritte oder in Drittländer statt.
+Die Analysesoftware wird auf einem eigenen Server unter der Domain janalytik.de selbst betrieben. Es findet keine Übermittlung von Daten an Dritte oder in Drittländer statt.
 
 **Rechtsgrundlage**
 Die Nutzung von Umami erfolgt auf Grundlage unseres berechtigten Interesses an einer datenschutzkonformen Analyse des Nutzerverhaltens zur technischen Optimierung unserer Website (Art. 6 Abs. 1 lit. f DSGVO). Da keine personenbezogenen Daten erhoben werden, ist eine Einwilligung nicht erforderlich.
