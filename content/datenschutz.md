@@ -20,27 +20,20 @@ E-Mail: moin@luett-und-satt.de
 
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
 
-### Google Analytics
+### Umami Analytics
 
-Diese Website nutzt Funktionen des Webanalysedienstes Google Analytics. Anbieter ist die Google Ireland Limited („Google“), Gordon House, Barrow Street, Dublin 4, Irland.
+Diese Website nutzt Umami, ein datenschutzfreundliches, cookiefreies Webanalyse-Tool. Umami setzt keine Cookies und speichert keine personenbezogenen Daten wie IP-Adressen oder Gerätekennungen. Die Analyse erfolgt ausschließlich auf Basis aggregierter, anonymer Nutzungsdaten.
 
-Google Analytics verwendet sogenannte „Cookies“. Das sind Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch das Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert.
+Die Analysesoftware wird auf einem eigenen Server unter der Domain janalytiks.de selbst betrieben. Es findet keine Übermittlung von Daten an Dritte oder in Drittländer statt.
 
-**IP-Anonymisierung**
-Wir haben auf dieser Website die Funktion IP-Anonymisierung aktiviert. Dadurch wird Ihre IP-Adresse von Google innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum vor der Übermittlung in die USA gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt.
-
-**Rechtsgrundlage & Widerruf**
-Die Speicherung von Google-Analytics-Cookies und die Nutzung dieses Analyse-Tools erfolgen ausschließlich auf Grundlage Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Sie können Ihre Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen, indem Sie die Cookie-Einstellungen über unseren Consent-Banner anpassen oder das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren: https://tools.google.com/dlpage/gaoptout?hl=de.
-
-**Auftragsverarbeitung**
-Wir haben mit Google einen Vertrag zur Auftragsverarbeitung (Data Processing Amendment) abgeschlossen und setzen die strengen Vorgaben der deutschen Datenschutzbehörden bei der Nutzung von Google Analytics vollständig um.
+**Rechtsgrundlage**
+Die Nutzung von Umami erfolgt auf Grundlage unseres berechtigten Interesses an einer datenschutzkonformen Analyse des Nutzerverhaltens zur technischen Optimierung unserer Website (Art. 6 Abs. 1 lit. f DSGVO). Da keine personenbezogenen Daten erhoben werden, ist eine Einwilligung nicht erforderlich.
 
 ## 2. Ihre Rechte als betroffene Person
 
 Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht auf:
 * **Auskunft:** Sie können kostenlos erfahren, welche personenbezogenen Daten wir über Sie gespeichert haben.
 * **Berichtigung oder Löschung:** Sie können verlangen, dass unrichtige Daten korrigiert oder Ihre Daten gelöscht werden.
-* **Widerruf:** Wenn Sie uns eine Einwilligung (z. B. über den Cookie-Banner) gegeben haben, können Sie diese jederzeit für die Zukunft widerrufen.
 * **Beschwerderecht:** Sie haben das Recht, sich bei einer Datenschutz-Aufsichtsbehörde zu beschweren, wenn Sie glauben, dass wir Ihre Daten nicht korrekt behandeln.
 
 ## 3. Datenerfassung auf unserer Website
