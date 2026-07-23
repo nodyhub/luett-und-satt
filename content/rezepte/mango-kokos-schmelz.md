@@ -1,6 +1,6 @@
 +++
 title = "Mango-Kokos-Schmelz (Tropisch & Magenfreundlich)"
-date = "2026-07-23T13:15:00+02:00"
+date = "2026-07-23T12:00:00+02:00"
 draft = false
 description = "Besonders mild und fruchtig: Ein natürliches Eis am Stiel mit Kokosmilch und wertvollen geschroteten Leinsamen."
 tags = ["Mango", "Eis", "Kokosmilch", "Snack", "Süß", "Vegetarisch"]
@@ -10,7 +10,7 @@ Dieses Eis ist besonders mild, extrem fruchtig und durch die Kokosmilch herrlich
 
 ### Zutaten
 
-* ½ reife, süße Mango (oder 100 g aufgetaute TK-Mango)
+* 1/2 reife, süße Mango (oder 100 g aufgetaute TK-Mango)
 * 100 ml Kokosmilch (die cremige aus der Dose, gut durchgerührt)
 * Der Omega-3-Bonus: 1 TL geschrotete Leinsamen (verschwinden optisch komplett im Eis)
 
