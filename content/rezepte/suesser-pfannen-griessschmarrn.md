@@ -1,10 +1,10 @@
----
-title: "Süßer Pfannen-Grießschmarrn mit warmem Apfel-Zimt-Mus"
-date: 2026-07-22T21:35:00+02:00
-draft: false
-description: "Die fluffige Alternative zum Kaiserschmarrn: Ein warmer Grießfladen, direkt in der Pfanne in mundgerechte Stücke gezupft."
++++
+title = "Süßer Pfannen-Grießschmarrn mit warmem Apfel-Zimt-Mus"
+date = "2026-07-22T21:35:00+02:00"
+draft = false
+description = "Die fluffige Alternative zum Kaiserschmarrn: Ein warmer Grießfladen, direkt in der Pfanne in mundgerechte Stücke gezupft."
 tags = ["Grieß", "Apfel", "Camping", "Süß", "Vegetarisch"]
----
++++
 
 Wenn der Heißhunger auf was Süßes kommt, ist dieser Grießschmarrn ideal. Er ist viel schneller gemacht als klassischer Kaiserschmarrn und wunderbar weich zu kauen.
 

@@ -1,10 +1,10 @@
----
-title: "Blitz-Tortellini in Erbsen-Frischkäse-Püree"
-date: 2026-07-22T21:30:00+02:00
-draft: false
-description: "Leuchtend grüne Soße und fertige Pasta: Ein schnelles Wohlfühlgericht, das Gemüse clever versteckt."
++++
+title = "Blitz-Tortellini in Erbsen-Frischkäse-Püree"
+date = "2026-07-22T21:30:00+02:00"
+draft = false
+description = "Leuchtend grüne Soße und fertige Pasta: Ein schnelles Wohlfühlgericht, das Gemüse clever versteckt."
 tags = ["Pasta", "Erbsen", "Käse", "Camping", "Vegetarisch"]
----
++++
 
 Dieses Gericht steht in unter 10 Minuten auf dem Camping-Tisch. Das Erbsenpüree hüllt die Tortellini komplett ein, sodass alles wunderbar weich und cremig wird.
 
