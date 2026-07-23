@@ -2,7 +2,7 @@
 title = "Weiche Bananen-Nuss-Kekse (Die Mehl-Resteverwertung)"
 date = "2026-07-15"
 draft = false
-tags = ["Banane", "Nussmus", "Fingerfood", "Snack", "Süßes", "Vegetarisch"]
+tags = ["Banane", "Nussmus", "Snack", "Süß", "Vegetarisch"]
 +++
 
 ### Zutaten

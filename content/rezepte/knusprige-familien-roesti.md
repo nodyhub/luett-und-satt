@@ -2,7 +2,7 @@
 title = "Knusprige Familien-Rösti (Für ca. 2 kg Kartoffeln)"
 date = "2026-07-15"
 draft = false
-tags = ["Kartoffeln", "Fingerfood", "Hauptgericht", "Familienküche", "Vegetarisch", "Ofengericht"]
+tags = ["Kartoffeln", "Ei", "Vegetarisch"]
 +++
 
 ### Zutaten

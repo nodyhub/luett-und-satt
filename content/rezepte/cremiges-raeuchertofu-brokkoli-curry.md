@@ -2,7 +2,7 @@
 title = "Cremiges Räuchertofu-Brokkoli-Curry (Mild & Stückchenfrei)"
 date = "2026-07-13"
 draft = false
-tags = ["Brokkoli", "Tofu", "Curry", "Hauptgericht", "Mild", "Vegetarisch"]
+tags = ["Brokkoli", "Tofu", "Kokosmilch", "Vegetarisch"]
 +++
 
 ### Zutaten

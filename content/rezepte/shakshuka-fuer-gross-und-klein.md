@@ -2,7 +2,7 @@
 title = "Shakshuka für Groß und Klein (Das perfekte Pfannen-Frühstück/Mittagessen)"
 date = "2026-07-15"
 draft = false
-tags = ["Tomate", "Ei", "Pfannengericht", "Schnell", "Familienküche", "Vegetarisch"]
+tags = ["Tomate", "Ei", "Vegetarisch"]
 +++
 
 Shakshuka ist ein absoluter Familien-Klassiker. Normalerweise werden Eier in einer würzigen, stückigen Tomatensoße pochiert. Für dein Kind machen wir hier eine besonders sanfte und einfach zu essende Variante daraus.

@@ -2,7 +2,7 @@
 title = "Herzhafte Zucchini-Käse-Waffeln (Grundrezept)"
 date = "2026-07-04"
 draft = false
-tags = ["Zucchini", "Käse", "Waffeln", "Fingerfood", "Vegetarisch"]
+tags = ["Zucchini", "Käse", "Ei", "Backen", "Snack", "Vegetarisch"]
 +++
 
 ### Zutaten

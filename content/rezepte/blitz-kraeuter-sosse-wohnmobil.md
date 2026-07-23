@@ -3,7 +3,7 @@ title: "Blitz-Kräuter-Soße fürs Wohnmobil (Für Schupfnudeln & Tofu)"
 date: 2026-07-22T21:00:00+02:00
 draft: false
 description: "Eine samtige, stückchenfreie Kräutersoße direkt aus der Pfanne – perfekt für den Camping-Urlaub mit den Lütten."
-tags: ["Camping", "Unterwegs", "Schnelle Küche", "Stückchenfrei", "Vegetarisch", "Soße"]
+tags = ["Käse", "Soße", "Camping", "Vegetarisch"]
 ---
 
 Egal ob auf dem Campingplatz oder beim wilden Stehen – wenn der kleine Schietbüdel nach einem langen Tag an der frischen Luft Hunger hat, muss es schnell gehen. Diese Blitz-Kräuter-Soße wird direkt in der Pfanne angerührt, spart Abwasch und schummelt das Gemüse perfekt unter!

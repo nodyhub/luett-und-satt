@@ -2,7 +2,7 @@
 title = "Butter-Blumenkohl-Wölkchen am Stiel"
 date = "2026-07-04"
 draft = false
-tags = ["Blumenkohl", "Fingerfood", "Snack", "Vegetarisch"]
+tags = ["Blumenkohl", "Snack", "Vegetarisch"]
 +++
 
 ### Zutaten

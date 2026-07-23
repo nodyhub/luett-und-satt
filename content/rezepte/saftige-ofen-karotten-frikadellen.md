@@ -2,7 +2,7 @@
 title = "Saftige Ofen-Karotten-Frikadellen (Ei-freie Version für die Reise)"
 date = "2026-07-06"
 draft = false
-tags = ["Hackfleisch", "Karotte", "Apfel", "Fingerfood", "Reise", "Ei-frei", "Snack"]
+tags = ["Hackfleisch", "Karotte", "Apfel", "Camping", "Snack"]
 +++
 
 ### Zutaten

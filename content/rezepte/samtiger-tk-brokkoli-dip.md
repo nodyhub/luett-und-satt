@@ -2,7 +2,7 @@
 title = "Samtiger TK-Brokkoli-Dip"
 date = "2026-07-04"
 draft = false
-tags = ["Brokkoli", "Dip", "Schnell", "Vegetarisch"]
+tags = ["Brokkoli", "Käse", "Dip", "Vegetarisch"]
 +++
 
 ### Zutaten

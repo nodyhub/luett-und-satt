@@ -2,7 +2,7 @@
 title = "Saftige Gemüse-Tarnkappen-Muffins (Stückchenfrei & Sauber)"
 date = "2026-07-06"
 draft = false
-tags = ["Gemüse", "Käse", "Muffins", "Fingerfood", "Snack", "Vegetarisch"]
+tags = ["Karotte", "Brokkoli", "Käse", "Backen", "Snack", "Vegetarisch"]
 +++
 
 ### Zutaten (Für ca. 6–8 Mini-Muffins)

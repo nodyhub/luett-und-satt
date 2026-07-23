@@ -2,7 +2,7 @@
 title = "Energie-Polenta-Schnitten (Kleine Portion)"
 date = "2026-07-04"
 draft = false
-tags = ["Polenta", "Käse", "Fingerfood", "Schnell", "Vegetarisch"]
+tags = ["Polenta", "Käse", "Snack", "Vegetarisch"]
 +++
 
 ### Zutaten

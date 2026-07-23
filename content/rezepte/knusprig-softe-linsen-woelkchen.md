@@ -2,7 +2,7 @@
 title = "Knusprig-softe Linsen-Wölkchen (Ei-frei & Perfekt zum Greifen)"
 date = "2026-07-15"
 draft = false
-tags = ["Linsen", "Nussmus", "Fingerfood", "Snack", "Vegetarisch", "Ei-frei"]
+tags = ["Linsen", "Nussmus", "Snack", "Vegetarisch"]
 +++
 
 Diese kleinen Puffer sind außen minimal knusprig, innen aber so weich wie Wolken. Man braucht dafür nicht einmal Mehl oder Ei, weil die gequollenen roten Linsen beim Mixen eine eigene, perfekte Bindung aufbauen!

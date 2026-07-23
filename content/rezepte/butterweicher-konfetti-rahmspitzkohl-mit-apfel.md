@@ -2,7 +2,7 @@
 title = "Butterweicher Konfetti-Rahmspitzkohl mit Apfel"
 date = "2026-07-04"
 draft = false
-tags = ["Spitzkohl", "Apfel", "Vegetarisch", "Brei-Alternative"]
+tags = ["Spitzkohl", "Apfel", "Vegetarisch"]
 +++
 
 ### Zutaten

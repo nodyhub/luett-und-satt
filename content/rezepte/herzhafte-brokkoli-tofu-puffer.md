@@ -2,7 +2,7 @@
 title = "Herzhafte Brokkoli-Tofu-Puffer (Perfekt zum Greifen)"
 date = "2026-07-13"
 draft = false
-tags = ["Brokkoli", "Tofu", "Fingerfood", "Snack", "Hauptgericht", "Vegetarisch"]
+tags = ["Brokkoli", "Tofu", "Käse", "Ei", "Snack", "Vegetarisch"]
 +++
 
 ### Zutaten

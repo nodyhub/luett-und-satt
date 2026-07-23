@@ -3,7 +3,7 @@ title: "Cremige Tomaten-Polenta mit geschmolzenem Käse"
 date: 2026-07-22T21:11:56+02:00
 draft: false
 description: "Ein Topf, zwei Varianten: Cremiges Löffelessen fürs Kind, mediterranes Schüssel-Gericht für die Eltern."
-tags: ["Camping", "Unterwegs", "Schnelle Küche", "Stückchenfrei", "Vegetarisch", "Familienessen", "Polenta"]
+tags = ["Polenta", "Tomate", "Käse", "Camping", "Vegetarisch"]
 ---
 
 Dieses One-Pot-Gericht ist der Retter im Wohnmobil: Ein einziger Topf, minimale Vorbereitung. Das Kind bekommt sein geliebtes weiches Essen und die Eltern ein herzhaftes, mediterranes Wohlfühlgericht.

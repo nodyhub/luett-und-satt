@@ -2,7 +2,7 @@
 title = "Die „Süße rote Zaubersauce“ (Linsen-Tomaten-Sauce für Pasta)"
 date = "2026-07-15"
 draft = false
-tags = ["Linsen", "Tomate", "Karotte", "Pasta", "Hauptgericht", "Vegetarisch", "Schnell"]
+tags = ["Linsen", "Tomate", "Karotte", "Pasta", "Soße", "Vegetarisch"]
 +++
 
 Diese Sauce sieht aus wie ganz normale Tomatensauce und schmeckt durch die Linsen und geraspelten Karotten wunderbar mild-süßlich. Sie ist vollgepackt mit pflanzlichem Protein, aber absolut stückchenfrei.

@@ -2,7 +2,7 @@
 title = "Schnelle Nussmus-Brotsticks (Die „Faule“-Energie-Alternative)"
 date = "2026-07-04"
 draft = false
-tags = ["Brot", "Nussmus", "Fingerfood", "Schnell", "Snack", "Vegetarisch"]
+tags = ["Brot", "Nussmus", "Snack", "Vegetarisch"]
 +++
 
 ### Zutaten

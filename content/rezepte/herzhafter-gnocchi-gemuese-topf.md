@@ -3,7 +3,7 @@ title: "Herzhafter Gnocchi-Gemüse-Topf mit Seidentofu-Creme"
 date: 2026-07-22T21:25:00+02:00
 draft: false
 description: "Ein schneller, cremiger Camping-Topf. Der Seidentofu sorgt für ordentlich Protein und eine samtige Soße."
-tags: ["Camping", "Unterwegs", "Schnelle Küche", "Stückchenfrei", "Vegetarisch", "Hauptgerichte"]
+tags = ["Gnocchi", "Brokkoli", "Zucchini", "Tofu", "Camping", "Vegetarisch"]
 ---
 
 Seidentofu ist eine geniale Geheimwaffe für die Wohnmobil-Küche: Er muss nicht gekühlt werden bis er geöffnet ist und bindet Säfte sofort zu einer glatten, nährstoffreichen Creme ab.

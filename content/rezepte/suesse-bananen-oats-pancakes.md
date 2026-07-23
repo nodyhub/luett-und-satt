@@ -3,7 +3,7 @@ title: "Süße Bananen-Oats-Pancakes direkt aus der Camping-Pfanne"
 date: 2026-07-22T21:20:00+02:00
 draft: false
 description: "Süß, weich und sättigend: Schnelle Pfannkuchen aus wenigen Zutaten, die perfekt in kleine Hände passen."
-tags: ["Camping", "Unterwegs", "Schnelle Küche", "Vegetarisch", "Frühstück", "Süßes"]
+tags = ["Banane", "Hafer", "Camping", "Süß", "Vegetarisch"]
 ---
 
 Ein absoluter Camping-Klassiker. Der Teig ist im Handumdrehen angerührt, kommt ganz ohne zusätzlichen Zucker aus und die Pancakes sind herrlich weich.
