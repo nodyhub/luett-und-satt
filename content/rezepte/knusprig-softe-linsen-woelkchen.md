@@ -1,5 +1,5 @@
 +++
-title = "Knusprig-softe Linsen-Wölkchen (Ei-frei & Perfekt zum Greifen)"
+title = "Knusprig-softe Linsen-Wölkchen"
 date = "2026-07-15"
 draft = false
 tags = ["Linsen", "Nussmus", "Snack", "Vegetarisch", "Fingerfood"]

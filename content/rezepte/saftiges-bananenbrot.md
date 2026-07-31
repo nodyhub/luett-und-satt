@@ -1,5 +1,5 @@
 +++
-title = "Saftiges Bananenbrot (Zuckerfrei & ohne Nüsse)"
+title = "Saftiges Bananenbrot"
 date = "2026-07-04"
 draft = false
 tags = ["Banane", "Backen", "Snack", "Süß", "Vegetarisch", "Brot"]

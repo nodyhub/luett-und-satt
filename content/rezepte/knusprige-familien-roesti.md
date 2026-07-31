@@ -1,5 +1,5 @@
 +++
-title = "Knusprige Familien-Rösti (Für ca. 2 kg Kartoffeln)"
+title = "Knusprige Familien-Rösti"
 date = "2026-07-15"
 draft = false
 tags = ["Kartoffeln", "Ei", "Vegetarisch", "Rösti"]

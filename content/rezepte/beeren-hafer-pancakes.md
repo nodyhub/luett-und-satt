@@ -1,5 +1,5 @@
 +++
-title = "Beeren-Hafer-Pancakes (Das Hafer-Upgrade)"
+title = "Beeren-Hafer-Pancakes"
 date = "2026-07-23T12:20:00+02:00"
 draft = false
 description = "Die ernährungsphysiologisch aufgerüstete Version deiner Pancakes: Vitamin C direkt im Teig, Rapsöl zum Braten und Leinsamen für die Gehirnentwicklung."

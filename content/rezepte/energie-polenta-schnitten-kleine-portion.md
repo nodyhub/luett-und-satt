@@ -1,5 +1,5 @@
 +++
-title = "Energie-Polenta-Schnitten (Kleine Portion)"
+title = "Energie-Polenta-Schnitten"
 date = "2026-07-04"
 draft = false
 tags = ["Polenta", "Käse", "Snack", "Vegetarisch"]

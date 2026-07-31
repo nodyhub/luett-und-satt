@@ -1,5 +1,5 @@
 +++
-title = "Saftige Beeren-Hafer-Muffins (Der süße Nährstoff-Tresor)"
+title = "Saftige Beeren-Hafer-Muffins"
 date = "2026-07-31T15:00:00+02:00"
 draft = false
 description = "Saftige Muffins mit Haferflocken, Beeren und versteckten Omega-3-Quellen – perfekt als nährstoffreicher Snack für Kleinkinder."

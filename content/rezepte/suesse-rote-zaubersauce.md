@@ -1,5 +1,5 @@
 +++
-title = "Die „Süße rote Zaubersauce“ (Linsen-Tomaten-Sauce für Pasta)"
+title = "Die „Süße rote Zaubersauce“"
 date = "2026-07-15"
 draft = false
 tags = ["Linsen", "Tomate", "Karotte", "Pasta", "Soße", "Vegetarisch"]

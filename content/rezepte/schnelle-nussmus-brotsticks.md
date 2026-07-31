@@ -1,5 +1,5 @@
 +++
-title = "Schnelle Nussmus-Brotsticks (Die „Faule“-Energie-Alternative)"
+title = "Schnelle Nussmus-Brotsticks"
 date = "2026-07-04"
 draft = false
 tags = ["Brot", "Nussmus", "Snack", "Vegetarisch"]

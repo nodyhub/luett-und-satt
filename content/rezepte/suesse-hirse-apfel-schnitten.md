@@ -1,5 +1,5 @@
 +++
-title = "Süße Hirse-Apfel-Schnitten (Der Eisen-Vitamin-C-Booster)"
+title = "Süße Hirse-Apfel-Schnitten"
 date = "2026-07-23T12:05:00+02:00"
 draft = false
 description = "Hirse schlägt Haferflocken beim Eisengehalt enorm. Durch Apfelmark und Orangensaft wird das pflanzliche Eisen optimal verwertbar."

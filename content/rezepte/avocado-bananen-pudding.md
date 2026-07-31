@@ -1,5 +1,5 @@
 +++
-title = "Avocado-Bananen-Pudding (Der No-Bake Omega-3-Snack)"
+title = "Avocado-Bananen-Pudding"
 date = "2026-07-23T12:10:00+02:00"
 draft = false
 description = "Dieses Rezept dauert genau eine Minute, erfordert kein Kochen und versteckt die wertvollen Leinsamen unsichtbar in einer süßen Creme."

@@ -1,5 +1,5 @@
 +++
-title = "Blitz-Kräuter-Soße fürs Wohnmobil (Für Schupfnudeln & Tofu)"
+title = "Blitz-Kräuter-Soße fürs Wohnmobil"
 date = "2026-07-22T21:00:00+02:00"
 draft = false
 description = "Eine samtige, stückchenfreie Kräutersoße direkt aus der Pfanne – perfekt für den Camping-Urlaub mit den Lütten."

@@ -1,5 +1,5 @@
 +++
-title = "Saftige Gemüse-Tarnkappen-Muffins (Stückchenfrei & Sauber)"
+title = "Saftige Gemüse-Tarnkappen-Muffins"
 date = "2026-07-06"
 draft = false
 tags = ["Karotte", "Brokkoli", "Käse", "Backen", "Snack", "Vegetarisch", "Muffin"]

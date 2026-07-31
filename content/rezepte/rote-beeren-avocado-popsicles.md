@@ -1,5 +1,5 @@
 +++
-title = "Rote Beeren-Avocado-Popsicles (Die heimliche Omega-3-Erfrischung)"
+title = "Rote Beeren-Avocado-Popsicles"
 date = "2026-07-23T13:10:00+02:00"
 draft = false
 description = "Die Avocado macht das Eis extrem cremig und liefert wertvolle Fette, während die Beeren Vitamin C beisteuern."

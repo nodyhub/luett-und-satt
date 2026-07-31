@@ -1,5 +1,5 @@
 +++
-title = "Herzhafte Zucchini-Käse-Waffeln (Grundrezept)"
+title = "Herzhafte Zucchini-Käse-Waffeln"
 date = "2026-07-04"
 draft = false
 tags = ["Zucchini", "Käse", "Ei", "Backen", "Snack", "Vegetarisch", "Waffel"]

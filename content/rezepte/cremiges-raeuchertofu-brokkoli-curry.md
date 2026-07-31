@@ -1,5 +1,5 @@
 +++
-title = "Cremiges Räuchertofu-Brokkoli-Curry (Mild & Stückchenfrei)"
+title = "Cremiges Räuchertofu-Brokkoli-Curry"
 date = "2026-07-13"
 draft = false
 tags = ["Brokkoli", "Tofu", "Kokosmilch", "Vegetarisch", "Curry"]

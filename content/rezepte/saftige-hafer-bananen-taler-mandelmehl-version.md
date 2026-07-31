@@ -1,5 +1,5 @@
 +++
-title = "Saftige Hafer-Bananen-Taler (Mandelmehl-Version)"
+title = "Saftige Hafer-Bananen-Taler"
 date = "2026-07-04"
 draft = false
 tags = ["Banane", "Hafer", "Mandel", "Snack", "Süß", "Vegetarisch", "Kekse"]

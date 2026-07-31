@@ -1,5 +1,5 @@
 +++
-title = "Fluffige Bananen-Nuss-Waffeln (Ei-frei & perfekt fürs belgische Eisen)"
+title = "Fluffige Bananen-Nuss-Waffeln"
 date = "2026-07-15"
 draft = false
 tags = ["Banane", "Nussmus", "Backen", "Snack", "Süß", "Vegetarisch", "Waffel"]

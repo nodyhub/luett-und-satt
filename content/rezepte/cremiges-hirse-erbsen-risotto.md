@@ -1,5 +1,5 @@
 +++
-title = "Cremiges Hirse-Erbsen-Risotto (Mit dem Leinöl-Finish)"
+title = "Cremiges Hirse-Erbsen-Risotto"
 date = "2026-07-23T12:15:00+02:00"
 draft = false
 description = "Ein herzhaftes Blitz-Essen. Die Erbsen liefern Vitamin C, das Leinöl am Schluss bringt intakte Omega-3-Fette."

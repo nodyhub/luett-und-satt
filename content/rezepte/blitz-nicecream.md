@@ -1,5 +1,5 @@
 +++
-title = "Die Blitz-Nicecream (Cremiges Bananen-Nuss-Eis zum Löffeln)"
+title = "Die Blitz-Nicecream"
 date = "2026-07-23T13:05:00+02:00"
 draft = false
 description = "Ein absoluter Lebensretter: Cremiges Softeis aus Bananen und Nussmus, ganz ohne Eismaschine."

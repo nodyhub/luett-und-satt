@@ -1,5 +1,5 @@
 +++
-title = "Mango-Kokos-Schmelz (Tropisch & Magenfreundlich)"
+title = "Mango-Kokos-Schmelz"
 date = "2026-07-23T12:00:00+02:00"
 draft = false
 description = "Besonders mild und fruchtig: Ein natürliches Eis am Stiel mit Kokosmilch und wertvollen geschroteten Leinsamen."

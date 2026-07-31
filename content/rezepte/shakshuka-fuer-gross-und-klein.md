@@ -1,5 +1,5 @@
 +++
-title = "Shakshuka für Groß und Klein (Das perfekte Pfannen-Frühstück/Mittagessen)"
+title = "Shakshuka für Groß und Klein"
 date = "2026-07-15"
 draft = false
 tags = ["Tomate", "Ei", "Vegetarisch"]
