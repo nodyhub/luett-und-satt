@@ -1,0 +1,21 @@
+{{- define "main" }}
+
+{{- if site.Params.homeInfoParams }}
+{{- partial "home_info.html" . }}
+{{- end }}
+
+{{- $tags := .Site.Taxonomies.tags }}
+{{- if $tags }}
+<div>
+    <h2>Zutaten &amp; Kategorien</h2>
+    <ul class="terms-tags">
+        {{- range $tags.Alphabetical }}
+        <li>
+            <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }} <sup><strong><sup>{{ .Count }}</sup></strong></sup></a>
+        </li>
+        {{- end }}
+    </ul>
+</div>
+{{- end }}
+
+{{- end }}{{/* end main */}}

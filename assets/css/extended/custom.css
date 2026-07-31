@@ -124,6 +124,13 @@ body {
     box-shadow: 0 6px 20px rgba(0,0,0,0.12);
 }
 
+/* --- Startseiten-Intro: kein erzwungener Mindestabstand wie bei Blog-Karten --- */
+.first-entry.home-info {
+    min-height: 0;
+    justify-content: flex-start;
+    margin: 0 0 var(--gap) 0;
+}
+
 /* --- Tags / Zutaten --- */
 .terms-tags a {
     border-radius: 999px;
