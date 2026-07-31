@@ -29,12 +29,6 @@ theme = "PaperMod"
   home = ["HTML", "RSS", "JSON"]
 
 [[menu.main]]
-  identifier = "search"
-  name = "Suchen"
-  url = "/search/"
-  weight = 10
-
-[[menu.main]]
   identifier = "vorschlaege"
   name = "Vorschläge?"
   url = "/vorschlaege/"
