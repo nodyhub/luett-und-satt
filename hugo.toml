@@ -4,7 +4,7 @@ title = "Lütt & Satt - Pragmatisches Kleinkinderessen"
 theme = "PaperMod"
 
 [params]
-  description = "Schietbüdel-Kombüse: Schnelle Rezepte für die Lütten."
+  description = "Schietbüdel-Kombüse: Schnelle und gesunde Rezepte für die Lütten."
   mainSections = ["rezepte"]
   ShowFullTextinMain = true
   hideMeta = true
@@ -17,7 +17,7 @@ theme = "PaperMod"
 
 [params.homeInfoParams]
   title = "Moin bei Lütt & Satt! 🥣"
-  content = "Schietbüdel-Kombüse: Schnelle Rezepte für die Lütten. \n\n **Wichtiger Hinweis vorweg:** Ich bin ein kochendes Elternteil, kein Kinderarzt. Achtet bitte selbst auf Allergien eurer Kinder und darauf, ob sie schon so weit sind, bestimmte Konsistenzen zu kauen."
+  content = "Schietbüdel-Kombüse: Schnelle und gesunde Rezepte für die Lütten. \n**Wichtiger Hinweis vorweg:** Ich bin ein kochendes Elternteil, kein Kinderarzt. Achtet bitte selbst auf Allergien eurer Kinder und darauf, ob sie schon so weit sind, bestimmte Konsistenzen zu kauen."
 
 
 [markup]
