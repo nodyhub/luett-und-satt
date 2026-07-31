@@ -17,7 +17,7 @@ theme = "PaperMod"
 
 [params.homeInfoParams]
   title = "Moin bei Lütt & Satt! 🥣"
-  content = "Schietbüdel-Kombüse: Schnelle Rezepte für die Lütten. \n\n **Wichtiger Hinweis vorweg:** Ich bin ein kochendes Elternteil, kein Kinderarzt. Alle Rezepte haben bei uns wunderbar funktioniert, aber achtet bitte selbst auf Allergien eurer Kinder und darauf, ob sie schon so weit sind, bestimmte Konsistenzen zu kauen."
+  content = "Schietbüdel-Kombüse: Schnelle Rezepte für die Lütten. \n\n **Wichtiger Hinweis vorweg:** Ich bin ein kochendes Elternteil, kein Kinderarzt. Achtet bitte selbst auf Allergien eurer Kinder und darauf, ob sie schon so weit sind, bestimmte Konsistenzen zu kauen."
 
 
 [markup]
