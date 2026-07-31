@@ -2,7 +2,7 @@
 title = "Fluffige Bananen-Nuss-Waffeln (Ei-frei & perfekt fürs belgische Eisen)"
 date = "2026-07-15"
 draft = false
-tags = ["Banane", "Nussmus", "Backen", "Snack", "Süß", "Vegetarisch"]
+tags = ["Banane", "Nussmus", "Backen", "Snack", "Süß", "Vegetarisch", "Waffel"]
 +++
 
 ### Zutaten (Für ca. 3–4 belgische Waffeln)

@@ -3,7 +3,7 @@ title = "Cremiges Hirse-Erbsen-Risotto (Mit dem Leinöl-Finish)"
 date = "2026-07-23T12:15:00+02:00"
 draft = false
 description = "Ein herzhaftes Blitz-Essen. Die Erbsen liefern Vitamin C, das Leinöl am Schluss bringt intakte Omega-3-Fette."
-tags = ["Hirse", "Erbsen", "Käse", "Vegetarisch"]
+tags = ["Hirse", "Erbsen", "Käse", "Vegetarisch", "Risotto"]
 +++
 
 Ein herzhaftes Blitz-Essen. Die Erbsen liefern das Vitamin C für das Hirse-Eisen, und das empfindliche Leinöl kommt erst am Ende dazu, damit die Omega-3-Struktur erhalten bleibt.

@@ -3,7 +3,7 @@ title = "Süße Hirse-Apfel-Schnitten (Der Eisen-Vitamin-C-Booster)"
 date = "2026-07-23T12:05:00+02:00"
 draft = false
 description = "Hirse schlägt Haferflocken beim Eisengehalt enorm. Durch Apfelmark und Orangensaft wird das pflanzliche Eisen optimal verwertbar."
-tags = ["Hirse", "Apfel", "Snack", "Süß", "Vegetarisch"]
+tags = ["Hirse", "Apfel", "Snack", "Süß", "Vegetarisch", "Fingerfood"]
 +++
 
 Hirse schlägt Haferflocken beim Eisengehalt enorm. Durch das Apfelmark und den Orangensaft (Vitamin C) wird das pflanzliche Eisen optimal für den Körper verwertbar gemacht.

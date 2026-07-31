@@ -3,7 +3,7 @@ title = "Avocado-Bananen-Pudding (Der No-Bake Omega-3-Snack)"
 date = "2026-07-23T12:10:00+02:00"
 draft = false
 description = "Dieses Rezept dauert genau eine Minute, erfordert kein Kochen und versteckt die wertvollen Leinsamen unsichtbar in einer süßen Creme."
-tags = ["Avocado", "Banane", "Snack", "Süß", "Vegetarisch"]
+tags = ["Avocado", "Banane", "Snack", "Süß", "Vegetarisch", "Pudding"]
 +++
 
 Dieses Rezept dauert genau eine Minute, erfordert kein Kochen und ist das perfekte Frühstück oder Dessert. Es liefert weiche, gesunde Fette und versteckt die geschroteten Leinsamen unsichtbar.

@@ -3,7 +3,7 @@ title = "Weiche Lachs-Süßkartoffel-Frikadellen (Die Omega-3-Bombe)"
 date = "2026-07-23T12:00:00+02:00"
 draft = false
 description = "Lachs liefert wertvolles DHA/EPA, die Süßkartoffel sorgt für eine wunderbar weiche, kleinkindgerechte Konsistenz."
-tags = ["Lachs", "Süßkartoffel", "Hafer", "Snack"]
+tags = ["Lachs", "Süßkartoffel", "Hafer", "Snack", "Frikadelle", "Fisch"]
 +++
 
 Lachs liefert das wertvolle DHA/EPA direkt, und die Süßkartoffel sorgt für eine wunderbar weiche, kleinkindgerechte Konsistenz. Das Rapsöl bringt zusätzliche gute Fette.

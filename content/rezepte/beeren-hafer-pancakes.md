@@ -3,7 +3,7 @@ title = "Beeren-Hafer-Pancakes (Das Hafer-Upgrade)"
 date = "2026-07-23T12:20:00+02:00"
 draft = false
 description = "Die ernährungsphysiologisch aufgerüstete Version deiner Pancakes: Vitamin C direkt im Teig, Rapsöl zum Braten und Leinsamen für die Gehirnentwicklung."
-tags = ["Hafer", "Banane", "Beeren", "Snack", "Süß", "Vegetarisch"]
+tags = ["Hafer", "Banane", "Beeren", "Snack", "Süß", "Vegetarisch", "Pancake"]
 +++
 
 Du machst bereits Hafer-Pancakes. Hier ist die ernährungsphysiologisch aufgerüstete Version: Vitamin C direkt im Teig, Rapsöl zum Braten und Leinsamen für die Gehirnentwicklung.
