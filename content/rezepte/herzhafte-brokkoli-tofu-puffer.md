@@ -2,6 +2,7 @@
 title = "Herzhafte Brokkoli-Tofu-Puffer"
 date = "2026-07-13"
 draft = false
+description = "Herzhafte Puffer aus Brokkoli und Räuchertofu mit Käse und Ei – knusprig gebraten und kindgerecht mild."
 tags = ["Brokkoli", "Tofu", "Käse", "Ei", "Snack", "Vegetarisch", "Puffer"]
 +++
 

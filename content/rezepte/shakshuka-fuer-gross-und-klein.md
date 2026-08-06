@@ -2,6 +2,7 @@
 title = "Shakshuka für Groß und Klein"
 date = "2026-07-15"
 draft = false
+description = "Sanfte, stückchenfreie Shakshuka-Variante: pochierte Eier in milder Tomatensoße für die ganze Familie."
 tags = ["Tomate", "Ei", "Vegetarisch"]
 +++
 

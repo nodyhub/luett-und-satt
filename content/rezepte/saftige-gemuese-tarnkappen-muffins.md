@@ -2,6 +2,7 @@
 title = "Saftige Gemüse-Tarnkappen-Muffins"
 date = "2026-07-06"
 draft = false
+description = "Herzhafte Mini-Muffins, in denen sich Gemüse und Käse geschickt verstecken – saftig und ideal zum Mitnehmen."
 tags = ["Karotte", "Brokkoli", "Käse", "Backen", "Snack", "Vegetarisch", "Muffin"]
 +++
 

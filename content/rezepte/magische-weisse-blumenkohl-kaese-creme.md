@@ -2,6 +2,7 @@
 title = "Magische weiße Blumenkohl-Käse-Creme"
 date = "2026-07-04"
 draft = false
+description = "Samtige weiße Creme aus Blumenkohl und Käse – vielseitig als Dip, Soße oder Brotaufstrich einsetzbar."
 tags = ["Blumenkohl", "Käse", "Dip", "Soße", "Vegetarisch"]
 +++
 

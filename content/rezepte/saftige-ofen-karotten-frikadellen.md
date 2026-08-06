@@ -2,6 +2,7 @@
 title = "Saftige Ofen-Karotten-Frikadellen"
 date = "2026-07-06"
 draft = false
+description = "Eifreie Frikadellen aus Hackfleisch, Karotte und Apfel, saftig durch Haferflocken – ideal auch fürs Camping."
 tags = ["Hackfleisch", "Karotte", "Apfel", "Camping", "Snack", "Frikadelle", "Ei-frei"]
 +++
 

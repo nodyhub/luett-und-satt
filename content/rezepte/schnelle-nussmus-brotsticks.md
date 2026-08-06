@@ -2,6 +2,7 @@
 title = "Schnelle Nussmus-Brotsticks"
 date = "2026-07-04"
 draft = false
+description = "Brotsticks mit mildem Nussmus bestrichen – der schnelle Fingerfood-Snack, auch perfekt zum Dippen."
 tags = ["Brot", "Nussmus", "Snack", "Vegetarisch"]
 +++
 

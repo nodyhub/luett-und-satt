@@ -2,6 +2,7 @@
 title = "Weiche Bananen-Nuss-Kekse"
 date = "2026-07-15"
 draft = false
+description = "Weiche Kekse aus Banane und Nussmus, mit Mehl gebunden und ganz ohne zugesetzten Zucker gebacken."
 tags = ["Banane", "Nussmus", "Snack", "Süß", "Vegetarisch", "Kekse"]
 +++
 

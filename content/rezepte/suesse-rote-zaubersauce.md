@@ -2,6 +2,7 @@
 title = "Die „Süße rote Zaubersauce“"
 date = "2026-07-15"
 draft = false
+description = "Stückchenfreie Tomatensauce mit roten Linsen und Karotte – mild-süßlich und vollgepackt mit pflanzlichem Protein."
 tags = ["Linsen", "Tomate", "Karotte", "Pasta", "Soße", "Vegetarisch"]
 +++
 

@@ -2,6 +2,7 @@
 title = "Butterweicher Konfetti-Rahmspitzkohl mit Apfel"
 date = "2026-07-04"
 draft = false
+description = "Zart gedünsteter Spitzkohl mit Apfel und einem Schuss Sahne – mild-süßlich und butterweich für kleine Esser."
 tags = ["Spitzkohl", "Apfel", "Vegetarisch"]
 +++
 

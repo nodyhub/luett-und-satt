@@ -2,6 +2,7 @@
 title = "Knusprige Familien-Rösti"
 date = "2026-07-15"
 draft = false
+description = "Klassische Kartoffel-Rösti für die ganze Familie, in der Pfanne oder gleich blechweise im Ofen gebacken."
 tags = ["Kartoffeln", "Ei", "Vegetarisch", "Rösti"]
 +++
 

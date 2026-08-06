@@ -2,6 +2,7 @@
 title = "Saftiges Bananenbrot"
 date = "2026-07-04"
 draft = false
+description = "Saftiges Bananenbrot mit Zimt und Haferflocken – ein süßer Snack-Klassiker ganz ohne zugesetzten Zucker."
 tags = ["Banane", "Backen", "Snack", "Süß", "Vegetarisch", "Brot"]
 +++
 

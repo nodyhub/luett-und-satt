@@ -2,6 +2,7 @@
 title = "Energie-Polenta-Schnitten"
 date = "2026-07-04"
 draft = false
+description = "Herzhafte Polenta-Schnitten mit Käse, in der Pfanne knusprig gebraten – ein sättigender Snack für unterwegs."
 tags = ["Polenta", "Käse", "Snack", "Vegetarisch"]
 +++
 

@@ -2,6 +2,7 @@
 title = "Herzhafte Zucchini-Käse-Waffeln"
 date = "2026-07-04"
 draft = false
+description = "Herzhafte Waffeln aus Zucchini und Käse – das schnelle Grundrezept für einen pikanten Snack ohne Zucker."
 tags = ["Zucchini", "Käse", "Ei", "Backen", "Snack", "Vegetarisch", "Waffel"]
 +++
 

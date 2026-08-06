@@ -2,6 +2,7 @@
 title = "Butter-Blumenkohl-Wölkchen am Stiel"
 date = "2026-07-04"
 draft = false
+description = "Blumenkohlröschen mit extra langem Strunk zum selbst Greifen, sanft in Brühe gedünstet und mit Butter verfeinert."
 tags = ["Blumenkohl", "Snack", "Vegetarisch"]
 +++
 

@@ -2,6 +2,7 @@
 title = "Saftige Hafer-Bananen-Taler"
 date = "2026-07-04"
 draft = false
+description = "Saftige Haferflocken-Taler mit Banane und Mandelmehl – ohne Zucker gesüßt und schnell in der Pfanne gebacken."
 tags = ["Banane", "Hafer", "Mandel", "Snack", "Süß", "Vegetarisch", "Kekse"]
 +++
 

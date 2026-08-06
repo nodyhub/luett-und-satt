@@ -2,6 +2,7 @@
 title = "Cremiges Räuchertofu-Brokkoli-Curry"
 date = "2026-07-13"
 draft = false
+description = "Mildes Kokos-Curry mit Räuchertofu und Brokkoli – cremig, proteinreich und ganz ohne Schärfe."
 tags = ["Brokkoli", "Tofu", "Kokosmilch", "Vegetarisch", "Curry"]
 +++
 

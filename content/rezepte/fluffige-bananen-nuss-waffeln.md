@@ -2,6 +2,7 @@
 title = "Fluffige Bananen-Nuss-Waffeln"
 date = "2026-07-15"
 draft = false
+description = "Fluffige Waffeln aus Banane und Nussmus, durch Sprudelwasser extra luftig – süß und ganz ohne Zucker."
 tags = ["Banane", "Nussmus", "Backen", "Snack", "Süß", "Vegetarisch", "Waffel"]
 +++
 

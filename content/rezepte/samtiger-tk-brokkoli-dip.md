@@ -2,6 +2,7 @@
 title = "Samtiger TK-Brokkoli-Dip"
 date = "2026-07-04"
 draft = false
+description = "Samtiger Dip aus TK-Brokkoli und Frischkäse, mit einer Prise Muskat und optional fein geriebenem Apfel."
 tags = ["Brokkoli", "Käse", "Dip", "Vegetarisch"]
 +++
 

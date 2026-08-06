@@ -2,6 +2,7 @@
 title = "Goldene Butter-Gnocchi mit süßem Apfel-Fenchel"
 date = "2026-07-04"
 draft = false
+description = "Gnocchi in goldener Butter geschwenkt mit mildem Fenchel und süßem Apfelsaft – schnell und herzhaft-süß zugleich."
 tags = ["Gnocchi", "Fenchel", "Apfel", "Vegetarisch"]
 +++
 

@@ -2,6 +2,7 @@
 title = "Knusprig-softe Linsen-Wölkchen"
 date = "2026-07-15"
 draft = false
+description = "Knusprig-softe Puffer aus roten Linsen, ganz ohne Mehl und Ei – die Linsen binden beim Mixen von allein."
 tags = ["Linsen", "Nussmus", "Snack", "Vegetarisch", "Fingerfood"]
 +++
 
