@@ -1,0 +1,12 @@
+{{- $.Scratch.Add "index" slice -}}
+{{- range site.RegularPages -}}
+    {{- if and (not .Params.searchHidden) (ne .Layout `archives`) (ne .Layout `search`) }}
+    {{- /* fällt ohne description auf den kompletten Auto-Summary-Text zurück, der zu viel Fuzzy-Rauschen erzeugt */ -}}
+    {{- $summary := .Description }}
+    {{- if not $summary }}
+        {{- $summary = .Plain | truncate 110 }}
+    {{- end }}
+    {{- $.Scratch.Add "index" (dict "title" .Title "content" .Plain "permalink" .Permalink "summary" $summary "section" .Section "tags" .Params.tags) -}}
+    {{- end }}
+{{- end -}}
+{{- $.Scratch.Get "index" | jsonify -}}

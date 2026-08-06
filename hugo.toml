@@ -19,6 +19,14 @@ theme = "PaperMod"
   title = "Moin bei Lütt & Satt! 🥣"
   content = "Schietbüdel-Kombüse: Schnelle und gesunde Rezepte für die Lütten. \n**Wichtiger Hinweis vorweg:** Ich bin ein kochendes Elternteil, kein Kinderarzt. Achtet bitte selbst auf Allergien eurer Kinder und darauf, ob sie schon so weit sind, bestimmte Konsistenzen zu kauen."
 
+[params.fuseOpts]
+  # niedrigerer threshold als das Theme-Default verhindert zufällige Fuzzy-Treffer;
+  # ignorelocation muss true bleiben, sonst werden Treffer abseits von Position 0 im String bestraft
+  threshold = 0.2
+  ignorelocation = true
+  minmatchcharlength = 2
+  keys = ["title", "summary", "permalink", "tags"]
+
 
 [markup]
   [markup.goldmark]
@@ -30,9 +38,15 @@ theme = "PaperMod"
 
 [[menu.main]]
   identifier = "vorschlaege"
-  name = "Vorschläge?"
+  name = "💡 Vorschläge?"
   url = "/vorschlaege/"
   weight = 15
+
+[[menu.main]]
+  identifier = "search"
+  name = "🔍 Suche"
+  url = "/search/"
+  weight = 20
 
 [[menu.main]]
   identifier = "kaffee"
